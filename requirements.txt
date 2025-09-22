@@ -5,3 +5,4 @@ crewai
 crewai_tools
 openai
 google-generativeai
+chromadb>=0.4.18
