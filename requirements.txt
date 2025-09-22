@@ -6,3 +6,5 @@ crewai_tools
 openai
 google-generativeai
 chromadb>=0.4.18
+chromadb
+pysqlite3-binary
